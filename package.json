@@ -1,0 +1,28 @@
+{
+  "name": "npm-richard-example",
+  "version": "1.0.0",
+  "description": "Example npm package for yourcar.co.nz",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richard875/npm-richard-example.git"
+  },
+  "keywords": [
+    "example",
+    "yourcar",
+    "calculator"
+  ],
+  "author": "Richard Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richard875/npm-richard-example/issues"
+  },
+  "homepage": "https://github.com/richard875/npm-richard-example#readme",
+  "devDependencies": {
+    "ts-node": "^8.9.0",
+    "typescript": "^3.8.3"
+  }
+}
