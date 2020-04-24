@@ -4,7 +4,7 @@
   "description": "Example npm package for yourcar.co.nz",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,9 @@
     "jest": "^25.4.0",
     "ts-node": "^8.9.0",
     "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@types/jest": "^25.2.1",
+    "@types/node": "^13.13.2"
   }
 }
