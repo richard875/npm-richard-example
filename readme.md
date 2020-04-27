@@ -21,4 +21,4 @@ This package has four methods: `sum`, `subtract`, `multiply` and `divide`
 `divide` takes 2 **numbers** `divide(a, b)` divides **a** to **b**,
 
 **Developed by Richard Lee, sophomore majoring Computer Science at the University of Auckland, Auckland, New Zealand**
-**Connect me on Linkdin: www.linkedin.com/in/richard875!**
+**Connect with me on Linkdin: www.linkedin.com/in/richard875!**
